@@ -9,8 +9,8 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/bhaskardasari3004-del/retail-platform-config-server.git
-          default-label: main
+          uri: https://github.com/bhaskardasari3004-del/retail-platform-config-repo.git
+          default-label: Release
           clone-on-start: true
 
 management:
